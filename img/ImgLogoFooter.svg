@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="41.532" viewBox="0 0 200 41.532">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.4;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #a4a6a6;
+      }
+
+      .cls-3 {
+        font-size: 33px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-4 {
+        fill: #121214;
+      }
+
+      .cls-5 {
+        fill: #5a5e5d;
+      }
+
+      .cls-6 {
+        filter: url(#Icon_material-attach-money-2);
+      }
+
+      .cls-7 {
+        filter: url(#Icon_material-attach-money);
+      }
+    </style>
+    <filter id="Icon_material-attach-money" x="80.581" y="0.142" width="21.712" height="41.39" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#121214"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_material-attach-money-2" x="80.581" y="0.142" width="21.712" height="40.39" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#c7cbc8" flood-opacity="0.976"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ImgLogoFooter" class="cls-1" transform="translate(615.029 -1130)">
+    <ellipse id="Elipse_53" data-name="Elipse 53" class="cls-2" cx="97" cy="0.5" rx="97" ry="0.5" transform="translate(-611.029 1163)"/>
+    <text id="smart" class="cls-3" transform="translate(-615.029 1160)"><tspan x="0" y="0">smart</tspan></text>
+    <text id="finance" class="cls-3" transform="translate(-510.03 1160)"><tspan x="0" y="0">finance</tspan></text>
+    <g id="_" data-name="$" transform="translate(-534.449 1130.142)">
+      <g class="cls-7" transform="matrix(1, 0, 0, 1, -80.58, -0.14)">
+        <path id="Icon_material-attach-money-3" data-name="Icon material-attach-money" class="cls-4" d="M21.168,21.349c-4.841-1.258-6.4-2.559-6.4-4.585,0-2.325,2.154-3.946,5.759-3.946,3.8,0,5.2,1.813,5.332,4.479h4.713a8.5,8.5,0,0,0-6.846-8.126V4.5h-6.4V9.107c-4.138.9-7.465,3.583-7.465,7.7,0,4.927,4.074,7.379,10.024,8.808,5.332,1.28,6.4,3.157,6.4,5.14,0,1.472-1.045,3.818-5.759,3.818-4.394,0-6.121-1.962-6.356-4.479H9.48c.256,4.671,3.754,7.294,7.849,8.169V42.89h6.4V38.3c4.159-.789,7.465-3.2,7.465-7.571C31.192,24.676,26.009,22.607,21.168,21.349Z" transform="translate(71.1 -4.36)"/>
+      </g>
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, -80.58, -0.14)">
+        <path id="Icon_material-attach-money-4" data-name="Icon material-attach-money" class="cls-5" d="M21.168,21.349c-4.841-1.258-6.4-2.559-6.4-4.585,0-2.325,2.154-3.946,5.759-3.946,3.8,0,5.2,1.813,5.332,4.479h4.713a8.5,8.5,0,0,0-6.846-8.126V4.5h-6.4V9.107c-4.138.9-7.465,3.583-7.465,7.7,0,4.927,4.074,7.379,10.024,8.808,5.332,1.28,6.4,3.157,6.4,5.14,0,1.472-1.045,3.818-5.759,3.818-4.394,0-6.121-1.962-6.356-4.479H9.48c.256,4.671,3.754,7.294,7.849,8.169V42.89h6.4V38.3c4.159-.789,7.465-3.2,7.465-7.571C31.192,24.676,26.009,22.607,21.168,21.349Z" transform="translate(71.1 -4.36)"/>
+      </g>
+    </g>
+  </g>
+</svg>
